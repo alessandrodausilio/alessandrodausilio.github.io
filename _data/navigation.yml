@@ -9,13 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/publications.md
 
   - title: "Talks"
     url: /talks/talks.md    
 
   - title: "Teaching"
     url: /teaching/teaching.md    
+
+  - title: "Funding"
+    url: /funding/funding.md    
     
   # - title: "Portfolio"
   #  url: /portfolio/
