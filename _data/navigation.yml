@@ -11,8 +11,8 @@ main:
   # - title: "Publications"
   #   url: /publications/publications.md
 
-   - title: "Talks"
-     url: /talks/talks.md    
+  # - title: "Talks"
+  #   url: /talks/talks.md    
 
   # - title: "Teaching"
   #   url: /teaching/teaching.md    
