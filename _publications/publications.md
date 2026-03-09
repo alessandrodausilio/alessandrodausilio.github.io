@@ -1,6 +1,7 @@
-Peer-reviewed, indexed, international journals
+Peer-reviewed, indexed, international journals 
 =====
 (@Corresponding Author)
+
 103 - Laroche J., D’Ausilio A. (In Press). Harnessing Uncertainty: Improvisation as a Model for Rapid Behavioral Expansion. Cog Sci. In Press.
 
 102 - Giraldi E., Frosolone M., Corcoran A.W., Barca L., Corsini A., Donnarumma F., D’Ausilio A., Pezzulo G. (in press). False but phonologically plausible linguistic priors induce cross-linguistic auditory illusions and attenuate electrophysiological markers of surprise. Imaging Neurosci. In Press.
