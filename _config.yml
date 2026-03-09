@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Alessandro D'Ausilio's HomePage"
+title                    : "Alessandro D'Ausilio"
 title_separator          : "-"
 name                     : &name "Alessandro D'Ausilio"
 description              : &description "Alessandro D'Ausilio's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -43,7 +43,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "www.researchgate.net/profile/Alessandro-Dausilio"
+  researchgate     : #"www.researchgate.net/profile/Alessandro-Dausilio"
   scopus           : # URL
   zotero           : # URL
 
@@ -68,7 +68,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "alessandrodausilio"
-  mastodon         : "@aledaus@neuromatch.social"
+  mastodon         : # "@aledaus@neuromatch.social"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
