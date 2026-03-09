@@ -1,6 +1,7 @@
 Talks
 ======
 2025 - Music, brain plasticity and the case of ensemble musicians. Conservatorio di Parma
+
 2025 - Sensorimotor basis of human communication. 3rd Panhellenic Conference on Neuropsychology, Athens
 2025 - Sensorimotor coupling during interaction, Symposium on Neural Control of Movement, School of Biomedical Sciences, University of Leeds
 2025 - Sensorimotor coupling during interaction, Cognition, Action et Plasticité Sensorimotrice Unité mixte de recherche – INSERM - CAPS 1093, Dijon
