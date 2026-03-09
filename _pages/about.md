@@ -13,7 +13,7 @@ I began studying Experimental Psychology with a thesis on neural network modelli
 
 
 Current Positions
-======
+------
 FULL PROFESSOR OF PHYSIOLOGY (since October 2022). University of Ferrara
 Department of Neuroscience and Rehabilitation, Section of Physiology
 
