@@ -45,13 +45,6 @@ Peer-reviewed, indexed, international journals
 83 - Torricelli F., Tomassini A., Pezzulo G., Pozzo T., Fadiga L., D’Ausilio A. (2023) Actions are all we need for cognition, but do we know enough about them? Phys Life Rev. 47, 30-32. (Reply to commentaries of publication #82).
 
 82 - Torricelli F., Tomassini A., Pezzulo G., Pozzo T., Fadiga L., D’Ausilio A. (2023) Motor invariants in action execution and perception. Phys Life Rev. 44, 13-47. Review article followed by 7 commentaries.
-	1. Dessalene E., Aloimonos Y. “Motor-invariants for action understanding in video” 20-21.
-	2. Labaune O., Berret B. “The vigor law as a kinematic invariant at work in perceptual-cognitive processes”.
-	3. Cheron G., Simar C., Cebolla A.M. “The oscillatory nature of the motor and perceptive kinematics invariants”.
-	4. Bardi L., Langford Z.D., Cristofori I. “Visual sensitivity to biological motion invariants in humans at birth”.
-	5. Lacquaniti F., La Scaleia B., Zago M. “Non-invariants may be used for socially-relevant perceptual decisions”.
-	6. d’Avella A., Russo M., Berger D.J., Maselli A. “Neuromuscular invariants in action execution and perception”.
-	7. Morasso P. “Taming the abundance of degrees of freedom”
 
 81 - Casarotto A., Dolfini E., Cardellicchio P., Fadiga L., *D’Ausilio A., *Koch G. (2023) Mechanisms of Hebbian-like plasticity in the ventral premotor – primary motor network. J Physiol (London), 601(1), 211-226. (*Equal contribution)
 
@@ -92,14 +85,6 @@ Peer-reviewed, indexed, international journals
 63 - Pezzulo G., Donnarumma F., Dindo H., D’Ausilio A., Konvalinka I., Castelfranchi C. (2019) The future of sensorimotor communication research. Phys Life Rev. 28, 46-51. (Reply to commentaries of publication #62).
 
 62 - Pezzulo G., Donnarumma F., Dindo H., D’Ausilio A., Konvalinka I., Castelfranchi C. (2019) The body talks: sensorimotor communication and its brain and kinematic signatures. Phys Life Rev, 28, 1-21. Review article followed by 8 commentaries.
-1. Dockendorff M., Sebanz N., Knoblich G. “Deviations from optimality should be an integral part of a working definition of SMC”.
-2. Curioni A., Sacheli L.M. “The role of social learning and socio-cognitive skills in sensorimotor communication”.
-3. Green A., McEllin L., Michael J. “Does sensorimotor communication stabilize commitment in joint action?”.
-4. Chater N., Misyak J., Ritchie O., Watson D., Griffiths D., Xu Z., Mouzakitis A. “Sensorimotor communication beyond the body: The case of driving”.
-5. Gambi C., Pickering M.J. “Sensorimotor communication and language”.
-6. Ognibene D.,  Giglia G.,  Marchegiani L., Rudrauf D. “Implicit perception simplicity and explicit perception complexity in sensorimotor communication”.
-7. Becchio C., Panzeri S. “Sensorimotor communication at the intersection between kinematic coding and readout”.
-8. Era V., Boukarras S., Candidi M. “Neural correlates of action monitoring and mutual adaptation during interpersonal motor coordination”.
 
 61 - Schmitz J., Bartoli E., Maffongelli L., Sebastian Galles N., Fadiga L., @ D’Ausilio A. (2019) Motor cortex compensates for lack of sensory and motor experience during auditory speech perception. Neuropsychologia, 128, 290-296.
 
@@ -148,17 +133,6 @@ Peer-reviewed, indexed, international journals
 39 - @ D’Ausilio A., Bartoli E., Maffongelli L. (2015) Motor control may support mirror neuron research with new hypotheses and methods. Phys Life Rev. 12, 133-137. (Reply to commentaries of publication #38)
 
 38 - @ D’Ausilio A., Bartoli E., Maffongelli L. (2015) Grasping Synergies: A motor-control approach to the mirror neuron mechanism. Phys Life Rev. 12, 91-103. Review article followed by 11 commentaries.
-1. Enticott P.G. “Toward a functional account of the human mirror system”.
-2. Frey S.H., Chen P.W. “The mirror neuron analogy: Implications for rehabilitation neuroscience”.
-3. Naish K.R., Holmes N.P. “The cortical mirror system reflects the cortical motor system”.
-4. Casile A. “Joining forces: Motor control meets mirror neurons”.
-5. Pezzulo G., Donnarumma F., Iodice P., Prevete R., Dindo H. “The role of synergies within generative models of action execution and recognition: A computational perspective”.
-6. Santello M. “Inference and representations of hand actions through grasping synergies”.
-7. Swinnen S.P., Alaerts K. “Granularity of the mirror neuron system: A complex endeavor”.
-8. Cattaneo L. “Granularity within the mirror system is not informative on action perception”.
-9. Candidi M., Sacheli L.M., Aglioti S.M. “From muscles synergies and individual goals to interpersonal synergies and shared goals: Mirror neurons and interpersonal action hierarchies”.
-10. Cavallo A., Ansuini C., Becchio C. “The (un)coupling between action execution and observation”.
-11. de C. Hamilton A.F. “The granularity of grasping”.
 
 37 - @ D’Ausilio A., Novembre G., Fadiga L., Keller P.E. (2015) What can music tell us about social interaction? Trends Cogn Sci. 19(3), 111-114.
 
