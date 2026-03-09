@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alessandro D'Ausilio's HomePage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
