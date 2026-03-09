@@ -1,13 +1,3 @@
----
-permalink: /
-title: "Talks"
-author_profile: true
-redirect_from: 
-  - /talks/
-  - /talks.html
----
-
-
 Talks
 ======
 2025 - Music, brain plasticity and the case of ensemble musicians. Conservatorio di Parma
